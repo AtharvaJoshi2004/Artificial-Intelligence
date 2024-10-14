@@ -1,5 +1,5 @@
-CAUA31201: ARTIFICIAL INTELLIGENCE
-Overview
+# CAUA31201: ARTIFICIAL INTELLIGENCE
+ ## Overview
 This folder contains assignments related to the course CAUA31201: Artificial Intelligence. The course covers various aspects of AI, including search strategies, knowledge representation, reasoning under uncertainty, expert systems, and machine learning. The goal of the course is to provide a deep understanding of AI concepts and their applications in real-world scenarios.
 
 Course Information
